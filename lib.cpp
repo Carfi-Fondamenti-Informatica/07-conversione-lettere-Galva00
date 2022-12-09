@@ -1,6 +1,6 @@
 
 #include "lib.h"
-bool convert (char & a){
+bool convert (char and a){
     if (a>=65 and a<=90){
         a +=32;
         return true;
